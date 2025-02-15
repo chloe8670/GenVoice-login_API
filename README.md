@@ -35,6 +35,7 @@ This API is designed for clinicians to manage therapy client cases within a ment
 ## Deployment
 
 The API is deployed on Render and can be accessed at : 
+https://genvoice-mental-health-api.onrender.com
 
 
 ## Testing
