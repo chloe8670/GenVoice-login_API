@@ -13,5 +13,15 @@
         "username": "rishiaw",
         "password": "pwrishiaw",
         "role": "Junior"
+    },
+    {
+        "username": "1",
+        "password": "123",
+        "role": "Junior"
+    },
+    {
+        "username": "testuser",
+        "password": "testpassword",
+        "role": "Junior"
     }
 ]

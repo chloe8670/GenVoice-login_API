@@ -10,5 +10,9 @@
     {
         "name": "Xu Yaoming",
         "description": "A 16-year-old high school student who is feeling overwhelmed by academic pressure and is struggling to balance schoolwork, extracurriculars, and personal time."
+    },
+    {
+        "name": "New Case",
+        "description": "This is a new case added via API"
     }
 ]
